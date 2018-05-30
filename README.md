@@ -1,3 +1,3 @@
 # cat_classifier
 
-#### Check out the notebook (.ipynb file) to see the model
+#### Check out logistic_regression_classifier.ipynb to see the model
